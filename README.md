@@ -103,5 +103,12 @@ mvn test
 
 > Déposez vos captures d'écran dans le dossier `captures/` :
 > - `captures/01-test-stock.png` : Sortie console de la gestion de stock.
+<img width="799" height="601" alt="image" src="https://github.com/user-attachments/assets/a12d5f96-2f80-4daf-afdc-36e73dfed003" />
+
 > - `captures/02-test-projets.png` : Sortie console du suivi des projets et tâches réelles.
+<img width="999" height="571" alt="image" src="https://github.com/user-attachments/assets/766bbbbb-782b-4d3f-bb77-f3067b4d8823" />
+
 > - `captures/03-test-etat-civil.png` : Sortie console de l'état civil (mariages en cours, polygamie via Criteria).
+<img width="1060" height="591" alt="image" src="https://github.com/user-attachments/assets/28bb2ef5-9f1d-48f1-8e22-1ff89a8766a8" />
+<img width="1258" height="646" alt="image" src="https://github.com/user-attachments/assets/e2774517-adc0-480f-91df-f3cd90a74fd9" />
+
